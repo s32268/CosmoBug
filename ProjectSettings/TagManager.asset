@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - mc
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - trawa i boxes
+  - Water
+  - UI
+  - wazne rzeczy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bg 1
+    uniqueID: 2118875821
+    locked: 0
+  - name: bg 2
+    uniqueID: 3073065473
+    locked: 0
+  - name: bg 3
+    uniqueID: 1414639647
+    locked: 0
+  - name: bg 4
+    uniqueID: 1096843135
+    locked: 0
+  - name: enemies
+    uniqueID: 771332177
+    locked: 0
+  - name: mc
+    uniqueID: 2537978799
+    locked: 0
+  - name: grass and ground
+    uniqueID: 1718591277
+    locked: 0
